@@ -1,8 +1,11 @@
 # Spring 2023 Semester Project
 Date: 5/2023
-## Screenshots
 
+**note**: Currently looking for a raspberry python script. The server and client code is available expect the raspberry python code.
+
+## Screenshots
 ![App Screenshot](http://ramongarciajr.tech/Semester_Project.png)
+
 ## Lessons Learned
 
 Throughout this project, I acquired several valuable lessons. Firstly, I learned how to effectively utilize Beeware, which proved to be a user-friendly and straightforward software/library. Beeware facilitated quick and seamless prototyping using Python and enabled deployment across various platforms. However, it should be noted that Beeware's community support is still in its early stages, resulting in limited tutorials and examples beyond the information provided on their official website.
