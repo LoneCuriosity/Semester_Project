@@ -1,7 +1,7 @@
 # Spring 2023 Semester Project
 Date: 5/2023
 
-**note**: Currently looking for a raspberry python script. The server and client code is available expect the raspberry python code.
+**note**: Currently looking for a raspberry pi python script. The server and client code is available expect the raspberry pi python code.
 
 ## Screenshots
 ![App Screenshot](http://ramongarciajr.tech/Semester_Project.png)
